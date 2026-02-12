@@ -32,14 +32,6 @@ for year in years:
 data = pd.concat(dfs, ignore_index=True)
 ```
 
-```{python}
-data.describe()
-```
-
-```{python}
-data.columns
-```
-
 ### Question 1:
 
 ```{python}
