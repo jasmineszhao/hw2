@@ -4,7 +4,7 @@ Welcome to Jasmine's ECON 470 HW 2 repository! Here you can find my code and ans
 # Data Upload and Cleaning
 Make sure to update any file paths used in my code to match your file paths (i.e. file/folder names, general folder structure). This applies for the .py file, data cleaning/uploading code, and the main code answering the homework questions. You can do this by using this code in any .ipynb file:
 
-import os
+import os\
 os.path.exists(path)
 
 Data uploading and cleaning code can be found under the "datacode" folder. Double check that the relative paths referenced in the functions.py file match your file structure in Jupyter to get to the ma service area data files. 
