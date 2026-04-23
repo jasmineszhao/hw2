@@ -23,7 +23,7 @@ Then, open that new qmd file and add under the title section:
 
 echo: false
 
-This will hide the code and only display the outputs. To clean this file up even more, update the title of the document itself, and feel free to delete any codeboxes that were used mainly at the beginning to double check things like file size, column names, etc.
+This will hide the code and only display the outputs. To clean this file up even more, update the title of the document itself, and feel free to delete any codeboxes that were used mainly to double check things like file size, column names, etc. unrelated to the homework answers themselves.
 
 Once you are satisfied with your polished qmd, open terminal again and navigate to your file for this assignment. Run this code to render a submission-ready pdf:
 
